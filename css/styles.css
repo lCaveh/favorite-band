@@ -1,0 +1,35 @@
+html {
+  background-image: url("../img/pinkfloyd.jpeg");
+  background-size: 100%;
+}
+.history {
+  width: 68%;
+  float: left;
+  border-style: solid;
+  border-color: black;
+}
+.shows {
+  border-style: solid;
+  border-color: black;
+  width: 23%;
+  float: left;
+  padding-left: 5%;
+}
+.albums {
+  border-style: solid;
+  border-color: black;
+  width: 68%;
+  float:left;
+}
+.photos {
+  border-style: solid;
+  border-color: black;
+  width: 28%;
+  float: left;
+}
+.photos img {
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
